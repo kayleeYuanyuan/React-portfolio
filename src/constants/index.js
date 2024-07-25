@@ -70,7 +70,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "37 Clay drive, Doncaster vic 3108 ",
+  address: "37 Clay drive, Doncaster Vic 3108 ",
   phoneNo: "+61 4782 238 28 ",
   email: "yuanyuanma817@gmail.com",
 };
